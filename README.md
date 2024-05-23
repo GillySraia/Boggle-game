@@ -37,7 +37,7 @@ Python 3.8 or higher
 - pygame
 
 ## Files
-- `main.py`: The main entry point of the game.
+- `boggle_with_music.py`: The main entry point of the game.
 - `Board.py`: Contains the `BoardObject` class.
 - `ex11_utils.py`: Utility functions, including `create_words_set`.
 - `BoggleModel.py`: The model for the Boggle game logic.
